@@ -1,5 +1,5 @@
-import pygame
 import numpy
+import pygame
 
 if __name__ == '__main__':
     pass
